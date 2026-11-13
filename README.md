@@ -19,3 +19,7 @@ $\texttt{\color{#880808 }My Spider Lilies.}$
 <a href="https://github.com/TWXSTEDS41NT" target="_blank">TWXSTEDS41NT<a/>
 
  [ATA](https://deathfollowsby.atabook.org)        [CARDD](https://deathfollowsby.carrd.co)   
+
+
+ <img width="90" height="90" alt="image_2026-10-07_181155357-removebg-preview (1)" src="https://github.com/user-attachments/assets/4962111c-8253-478c-975e-a1fd55354d29" />
+
