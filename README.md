@@ -10,10 +10,20 @@ $\texttt{\color{#DC143C}𝚁𝚎𝚗 . 刃}$
     <p align="center">
    ![Github Views](https://views.igorkowalczyk.dev/api/badge/Y1NGXING?label=𝙿𝚎𝚝𝚊𝚕𝚜&labelColor=800020&color=4A0404)
 
-<p align="center">
-$\texttt{\color{#880808 }My Spider Lilies.}$
 
-<p align="Left">
+
+ [ATA](https://deathfollowsby.atabook.org)        [CARDD](https://deathfollowsby.carrd.co)   
+
+
+
+  <img width="90" height="90" alt="image_2026-10-07_181155357-removebg-preview (1)" src="https://github.com/user-attachments/assets/4962111c-8253-478c-975e-a1fd55354d29" />
+ 
+
+
+
+<details><summary>$\color{#880808}{\textsf{My Spider Lilies.}}$</summary>
+    
+<p align="Center">
  <a href="https://github.com/haloprayers" target="_blank">haloprayers<a/>
 <a href="https://github.com/aave-aarnivalkea" target="_blank">aave-aarnivalkea<a/>
 <a href="https://github.com/waltzofdeath" target="_blank">waltzofdeath<a/>
@@ -22,8 +32,6 @@ $\texttt{\color{#880808 }My Spider Lilies.}$
 <a href="https://github.com/eclipsedstarlight" target="_blank">eclipsedstarlight<a/>
 <a href="https://github.com/TWXSTEDS41NT" target="_blank">TWXSTEDS41NT<a/>
 
- [ATA](https://deathfollowsby.atabook.org)        [CARDD](https://deathfollowsby.carrd.co)   
 
 
- <img width="90" height="90" alt="image_2026-10-07_181155357-removebg-preview (1)" src="https://github.com/user-attachments/assets/4962111c-8253-478c-975e-a1fd55354d29" />
 
