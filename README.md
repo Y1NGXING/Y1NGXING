@@ -1,5 +1,10 @@
 <div align=center> 
  
+<img width="1080" height="70" alt="image" src="https://github.com/user-attachments/assets/bf86c329-e06a-4377-b8ef-d06ec5ec1e3b" />
+
+
+
+
 <img width="1164" height="466" alt="Untitled122_20261114031947" src="https://github.com/user-attachments/assets/9d8189f8-4768-4f94-b9aa-45ca530b069a" />
 
 
@@ -33,5 +38,5 @@ $\texttt{\color{#DC143C}𝚁𝚎𝚗 . 刃}$
 <a href="https://github.com/TWXSTEDS41NT" target="_blank">TWXSTEDS41NT<a/>
 
 
-
+<d/>
 
