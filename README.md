@@ -1,6 +1,7 @@
 <div align=center> 
  
-<img width="1080" height="70" alt="image" src="https://github.com/user-attachments/assets/bf86c329-e06a-4377-b8ef-d06ec5ec1e3b" />
+<img width="1280" height="167" alt="image" src="https://github.com/user-attachments/assets/5c000040-0ca7-4cb4-8f95-6abda4b2019b" />
+
 
 
 
@@ -11,17 +12,23 @@
 <p align="center">
 $\texttt{\color{#DC143C}𝚁𝚎𝚗 . 刃}$
 
+
+<p align="Right">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9e49a2cd-ad99-4625-93cc-6e414d768453" />
+
+
 </sub></sup>
     <p align="center">
    ![Github Views](https://views.igorkowalczyk.dev/api/badge/Y1NGXING?label=𝙿𝚎𝚝𝚊𝚕𝚜&labelColor=800020&color=4A0404)
 
+<p align="Left">
+<img width="294" height="309" alt="image" src="https://github.com/user-attachments/assets/cddcd802-d967-4949-b076-e624b70d6d98" />
 
 
  [ATA](https://deathfollowsby.atabook.org)        [CARDD](https://deathfollowsby.carrd.co)   
 
 
 
-  <img width="90" height="90" alt="image_2026-10-07_181155357-removebg-preview (1)" src="https://github.com/user-attachments/assets/4962111c-8253-478c-975e-a1fd55354d29" />
  
 
 
@@ -35,8 +42,24 @@ $\texttt{\color{#DC143C}𝚁𝚎𝚗 . 刃}$
 <a href="https://github.com/furiosoreplicas" target="_blank">furiosoreplicas<a/>
 <a href="https://github.com/XNPXO" target="_blank">XNPXO<a/>
 <a href="https://github.com/eclipsedstarlight" target="_blank">eclipsedstarlight<a/>
-<a href="https://github.com/TWXSTEDS41NT" target="_blank">TWXSTEDS41NT<a/>
+<a href="https://github.com/TWXSTEDS41NT" target="_blank">TWXSTEDS41NT<a/> </details>
 
 
-<d/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1280" height="167" alt="image" src="https://github.com/user-attachments/assets/da668453-68f4-475d-9629-f9a77e7e4806" />
+
+
 
