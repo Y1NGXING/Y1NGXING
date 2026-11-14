@@ -7,7 +7,7 @@
 $\texttt{\color{#DC143C}𝚁𝚎𝚗 . 刃}$
 
 </sub></sup>
-   . <p align="center">
+    <p align="center">
    ![Github Views](https://views.igorkowalczyk.dev/api/badge/Y1NGXING?label=𝙿𝚎𝚝𝚊𝚕𝚜&labelColor=800020&color=4A0404)
 
 <p align="center">
