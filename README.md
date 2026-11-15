@@ -14,7 +14,7 @@ $\texttt{\color{#DC143C}𝚁𝚎𝚗 . 刃}$
 
 
 <p align="Right">
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9e49a2cd-ad99-4625-93cc-6e414d768453" />
+<img width="294" height="309" alt="image" src="https://github.com/user-attachments/assets/9e49a2cd-ad99-4625-93cc-6e414d768453" />
 
 
 </sub></sup>
@@ -23,10 +23,6 @@ $\texttt{\color{#DC143C}𝚁𝚎𝚗 . 刃}$
 
 <p align="Left">
 <img width="294" height="309" alt="image" src="https://github.com/user-attachments/assets/cddcd802-d967-4949-b076-e624b70d6d98" />
-
-
- [ATA](https://deathfollowsby.atabook.org)        [CARDD](https://deathfollowsby.carrd.co)   
-
 
 
  
@@ -46,6 +42,7 @@ $\texttt{\color{#DC143C}𝚁𝚎𝚗 . 刃}$
 
 
 
+[<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/293bc14d-e205-4cc3-b30c-e9ab2f72ade0" />](https://deathfollowsby.atabook.org) [<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/2c43a9f1-25da-447b-a69a-9db8635d2329" />](https://deathfollowsby.carrd.co)
 
 
 
