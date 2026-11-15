@@ -42,7 +42,8 @@ $\texttt{\color{#DC143C}𝚁𝚎𝚗 . 刃}$
 
 
 
-[<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/293bc14d-e205-4cc3-b30c-e9ab2f72ade0" />](https://deathfollowsby.atabook.org) [<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/2c43a9f1-25da-447b-a69a-9db8635d2329" />](https://deathfollowsby.carrd.co)
+[<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/293bc14d-e205-4cc3-b30c-e9ab2f72ade0" />](https://deathfollowsby.atabook.org) [<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/2c43a9f1-25da-447b-a69a-9db8635d2329" />](https://deathfollowsby.carrd.co) [<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/0807c58b-8481-4d56-b184-3cc457067463" />](https://vlry.straw.page)
+
 
 
 
